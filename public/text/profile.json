@@ -1,0 +1,22 @@
+[{
+    "data": [{
+        "profile": {
+            "name":"Muhamad Zulfikar Fikri",
+            "birth-date" : "Bandung, 21 May 2003",
+            "location" : "Indonesia, West Java, Bandung City",
+            "whatsapp-number" : "Indonesia, West Java, Bandung City",
+            "email" : "Indonesia, West Java, Bandung City",
+            "about" : "I'm a sixth-semester student from Bandung, Indonesia, proficient in full-stack web development and Android app development using Kotlin and XML in Android Studio. My passion lies in creating seamless user experiences, believing that good design is pivotal in effectively communicating messages and identities. Beyond coding, I find relaxation and inspiration through swimming and gaming, activities that fuel my creativity. With a blend of technical expertise and a penchant for design, I aim to continue making impactful contributions in the realms of web and app development, both locally and globally.",
+            "profession" : "Fullstack Web/Android-developer"
+
+        },
+        "skill" :{
+            "Laravel" : {"icon" : "fas-regular fa-laravel"},
+            "Tailwind" : {"icon" : "fas-regular fa-tailwind"},
+            "Bootstrap" : {"icon" : "fas-regular fa-bootstrap"},
+            "Android Kotlin" : {"icon" : "fas-regular fa-android"},
+            "RestAPI" : {"icon" : "fas-regular fa-rest-api"}
+        }
+    }]
+}
+]
